@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto:wght@100&display=swap");
+
+section {
+	background-image: url(../img/Vector\ Smart\ Object\ 1.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.header-section {
+	width: 177px;
+	height: 173px;
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 19px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.header-items {
+	display: flex;
+	justify-content: space-between;
+	width: 177px;
+}
+
+.header-section a {
+	color: white;
+	text-decoration: none;
+}
+
+.container {
+	height: 190px;
+	width: 306px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 22px;
+	font-family: "Montserrat", sans-serif;
+}
+
+h3 a {
+	font-family: "Montserrat", sans-serif;
+}
+
+h4 {
+	font-family: "Montserrat", sans-serif;
+}
+
+p {
+	font-family: "Roboto", sans-serif;
+}
+
+.sing-up {
+	border: 2px solid white;
+	border-radius: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 92px;
+	height: 39px;
+}
+
+.log-in {
+	width: 92px;
+	height: 39px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
